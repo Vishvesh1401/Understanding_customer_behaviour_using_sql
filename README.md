@@ -30,12 +30,12 @@ Invalid records (missing customer IDs, non-positive quantities or prices) are ex
 
 ## 📂 Project Structure
 
-│
-├── README.md
-│
-├── sql/
-│ ├── 01_data_cleaning.sql
-│ ├── 02_first_purchase_logic.sql
+-│
+-├── README.md
+-│
+-├── sql/
+-│ ├── 01_data_cleaning.sql
+-│ ├── 02_first_purchase_logic.sql
 │ ├── 03_customer_type_label.sql
 │ ├── 04_behavior_metrics.sql
 │ ├── 05_country_analysis.sql
